@@ -1,7 +1,7 @@
 {
-  "name": "ALI-MD",
+  "name": "PhoenixFury",
   "version": "3.0.0",
-  "description": "A WhatsApp Bot Created By ALI",
+  "description": "A WhatsApp Bot Created By PhoenixFury",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name ALI-MD",
