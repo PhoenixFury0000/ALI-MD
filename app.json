@@ -1,8 +1,8 @@
 {
-  "name": "ALI-MD",
-  "description": "Javascript WhatsApp bot made by ali",
+  "name": "PhoenixFury",
+  "description": "Javascript WhatsApp bot made by PhoenixFury",
   "logo": "https://files.catbox.moe/6ku0eo.jpg",
-  "keywords": ["ALI-MD"],
+  "keywords": ["PhoenixFury"],
   "success_url": "/",
 
     "stack": "container",
@@ -23,7 +23,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "𓆩ု᪳𝐀ɭīī 𝐌Ɗှ᪳𓆪"
+      "value": "PhoenixFury ^-^"
     }, 
       
     "PREFIX": {
@@ -91,14 +91,14 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS JUST NOW ALI-MD 🍒*"
+      "value": "*SEEN YOUR STATUS JUST NOW PhoenixFury 🍒*"
    
      }, 
 
     "BOT_NAME": {
-      "description": "Type here the bot name.",
+      "description": "PhoenixFury",
       "required": false,
-      "value": "𓆩ု᪳𝐀ɭīī 𝐌Ɗှ᪳𓆪"
+      "value": "PhoenixFury"
 
       }, 
     
