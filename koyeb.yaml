@@ -1,6 +1,6 @@
-name: ali-ai
+name: PhoenixFury 
 services:
-  - name: ali-ai-service
+  - name: phoenix-service
     type: web
     ports:
       - 5000
